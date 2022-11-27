@@ -1,0 +1,6 @@
+find - to find things
+locate - locate
+which - locate binary "only for installed programs"
+whereis - location of all file "only for installed programs"
+find directory options expression
+find / -type f -name apache2
